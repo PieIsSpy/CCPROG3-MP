@@ -2,7 +2,7 @@
  *  Plants vs Zombies.
  *
  *  @author PieIsSpy
- *  @author <replace so that it reflects in github collaborators>
+ *  @author rachell-code
  *  @version 1.0
  */
 public class PlantsVsZombies {
